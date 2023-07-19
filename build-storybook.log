@@ -1,0 +1,840 @@
+info @storybook/html v6.5.12
+info 
+info => Cleaning outputDir: /Users/mredmond/Documents/GitHub/uswds/storybook-static
+info => Loading presets
+info => Copying static files: /Users/mredmond/Documents/GitHub/uswds/dist at /Users/mredmond/Documents/GitHub/uswds/storybook-static/
+info => Compiling manager..
+info => Compiling preview..
+info Addon-docs: using MDX1
+info => Using implicit CSS loaders
+info => Using default Webpack5 setup
+<s> [webpack.Progress] 0% 
+
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 1% setup before run NodeEnvironmentPlugin
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 4% setup normal module factory CaseSensitivePathsPlugin
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 6% setup before compile ProgressPlugin
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 7% setup compile ExternalsPlugin
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 8% setup compilation ArrayPushCallbackChunkFormatPlugin
+<s> [webpack.Progress] 8% setup compilation JsonpChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation StartupChunkDependenciesPlugin
+<s> [webpack.Progress] 8% setup compilation ImportScriptsChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileWasmPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileAsyncWasmPlugin
+<s> [webpack.Progress] 8% setup compilation WorkerPlugin
+<s> [webpack.Progress] 8% setup compilation SplitChunksPlugin
+<s> [webpack.Progress] 8% setup compilation RuntimeChunkPlugin
+<s> [webpack.Progress] 8% setup compilation ResolverCachePlugin
+<s> [webpack.Progress] 8% setup compilation HtmlWebpackPlugin
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation ProvidePlugin
+<s> [webpack.Progress] 9% setup compilation ProgressPlugin
+<s> [webpack.Progress] 9% setup compilation ChunkPrefetchPreloadPlugin
+<s> [webpack.Progress] 9% setup compilation SourceMapDevToolPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptModulesPlugin
+<s> [webpack.Progress] 9% setup compilation JsonModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AssetModulesPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation RuntimePlugin
+<s> [webpack.Progress] 9% setup compilation InferAsyncModulesPlugin
+<s> [webpack.Progress] 9% setup compilation DataUriPlugin
+<s> [webpack.Progress] 9% setup compilation FileUriPlugin
+<s> [webpack.Progress] 9% setup compilation CompatibilityPlugin
+<s> [webpack.Progress] 9% setup compilation HarmonyModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AMDPlugin
+<s> [webpack.Progress] 9% setup compilation RequireJsStuffPlugin
+<s> [webpack.Progress] 9% setup compilation CommonJsPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation NodeStuffPlugin
+<s> [webpack.Progress] 9% setup compilation APIPlugin
+<s> [webpack.Progress] 9% setup compilation ExportsInfoApiPlugin
+<s> [webpack.Progress] 9% setup compilation WebpackIsIncludedPlugin
+<s> [webpack.Progress] 9% setup compilation ConstPlugin
+<s> [webpack.Progress] 9% setup compilation UseStrictPlugin
+<s> [webpack.Progress] 9% setup compilation RequireIncludePlugin
+<s> [webpack.Progress] 9% setup compilation RequireEnsurePlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation ImportPlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation SystemPlugin
+<s> [webpack.Progress] 9% setup compilation ImportMetaPlugin
+<s> [webpack.Progress] 9% setup compilation URLPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsFactoryPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPresetPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPrinterPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptMetaInfoPlugin
+<s> [webpack.Progress] 9% setup compilation EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 9% setup compilation RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 9% setup compilation MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 9% setup compilation FlagIncludedChunksPlugin
+<s> [webpack.Progress] 9% setup compilation SideEffectsFlagPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyExportsPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyUsagePlugin
+<s> [webpack.Progress] 9% setup compilation InnerGraphPlugin
+<s> [webpack.Progress] 9% setup compilation MangleExportsPlugin
+<s> [webpack.Progress] 9% setup compilation ModuleConcatenationPlugin
+<s> [webpack.Progress] 9% setup compilation NoEmitOnErrorsPlugin
+<s> [webpack.Progress] 9% setup compilation RealContentHashPlugin
+<s> [webpack.Progress] 9% setup compilation WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 9% setup compilation NamedModuleIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation TerserPlugin
+<s> [webpack.Progress] 9% setup compilation TemplatedPathPlugin
+<s> [webpack.Progress] 9% setup compilation RecordIdsPlugin
+<s> [webpack.Progress] 9% setup compilation WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 9% setup compilation IgnoreWarningsPlugin
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 10% building
+<s> [webpack.Progress] 10% building 0/1 entries 0/0 dependencies 0/0 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/babel-loader/lib/index.js
+<s> [webpack.Progress] 10% building 0/14 entries 13/32 dependencies 0/12 modules
+<s> [webpack.Progress] 13% building 1/14 entries 27/52 dependencies 1/24 modules
+<s> [webpack.Progress] 13% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
+<s> [webpack.Progress] 13% building 1/14 entries 148/211 dependencies 6/129 modules
+<s> [webpack.Progress] 17% building 2/14 entries 246/342 dependencies 10/182 modules
+<s> [webpack.Progress] 17% building 2/14 entries 589/781 dependencies 27/400 modules
+<s> [webpack.Progress] 17% building import loader ./node_modules/twigjs-loader/index.js
+<s> [webpack.Progress] 17% building 2/14 entries 758/791 dependencies 30/464 modules
+<s> [webpack.Progress] 17% building import loader ./node_modules/style-loader/dist/cjs.js
+<s> [webpack.Progress] 17% building import loader ./node_modules/css-loader/dist/cjs.js
+<s> [webpack.Progress] 17% building import loader ./node_modules/postcss-loader/dist/cjs.js
+<s> [webpack.Progress] 17% building import loader ./node_modules/resolve-url-loader/index.js
+<s> [webpack.Progress] 17% building import loader ./node_modules/sass-loader/dist/cjs.js
+<s> [webpack.Progress] 17% building 2/14 entries 937/999 dependencies 58/540 modules
+<s> [webpack.Progress] 17% building 2/14 entries 1100/1402 dependencies 68/554 modules
+<s> [webpack.Progress] 17% building 2/14 entries 2000/2174 dependencies 159/708 modules
+<s> [webpack.Progress] 17% building 2/14 entries 2331/2483 dependencies 200/776 modules
+<s> [webpack.Progress] 17% building 2/14 entries 2815/2900 dependencies 426/860 modules
+<s> [webpack.Progress] 17% building 2/14 entries 3345/3700 dependencies 529/914 modules
+WARNING: 
+
+--------------------------------------------------------------------
+✉ USWDS Notifications
+--------------------------------------------------------------------
+3.0.0
+- Settings: We deprecated the $output-all-utilities setting.
+  Control utility output with $output-these-utilities.
+  See designsystem.digital.gov/documentation/settings for more.
+
+--------------------------------------------------------------------
+3.1.0
+- Accessibility: We added `type='button'` to all buttons that
+  do not submit a form. All your non-form project buttons will
+  need `type='button'`.
+- Accessibility: We updated the markup in the usa-password package
+  to use a <button> element instead of an anchor element.
+- Accessibility: Elements that get `aria-disabled` instead of
+  `disabled` are now styled as disabled.
+- Compatibility: We're using some CSS selectors not supported
+  by IE11.
+- Deprecated: We deprecated the embed-container() mixin.
+- Display: We removed the outline circle from social media icons.
+- Settings: We changed the default value of $theme-hero-image.
+  Teams that use the default image (hero.png) will need to get the
+  new image (hero.jpg) from the distribution package.
+--------------------------------------------------------------------
+3.2.0
+- Accessibility: We changed `div.usa-identifier__identity` to 
+  `section.usa-identifier__identity` (we changed the div to a 
+  section) so the ARIA label is associated with an non-div element.
+- Accessibility: We updated the aria-label in English versions of
+  section.usa-banner to 'Official website of the United States 
+  government' to reduce ambiguity in screen reader vocalizations. 
+  Previously, 'An official' could be misunderstood as 'unofficial'.
+- Accessibility: We added `aria-hidden='true'` to the parent div 
+  of `p.usa-banner__header-text` in usa-banner. We also 
+  removed `aria-hidden='true'` from `p.usa-banner__header-action`. 
+  Together these assure that the proper elements are read in the
+  banner.
+- Accessibility: In the lock icon SVG in usa-banner, we changed the 
+  value of aria-labelledby to  
+  `aria-labelledby='banner-lock-description'` and updated the value
+  of desc#banner-lock-description to `'Locked padlock'` to simplify
+  the vocalization.
+- Accessibility: We added `aria-hidden='true' to 
+  `img.usa-banner__header-flag` in usa-banner since this is a
+  decorative image.
+--------------------------------------------------------------------
+3.4.0
+- Compatibility: We no longer include ttf and woff fonts in our 
+  @font-face rules. If you need these files for IEll compatibility,
+  add `$theme-font-browser-compatibility: true` to your project
+  settings.
+--------------------------------------------------------------------
+3.5.0
+- Sass: Removed `usa-prose-` mixins and placeholders from Sass.
+  This is a breaking change only if your project Sass uses 
+  `usa-prose-` mixins and placeholders. Users should instead use 
+  `typeset-` mixins in their place.
+- Settings: Now adjusting a single Sass map setting will no 
+  longer set all other values in the map to `false`. Users can
+  now update only the map values they wish to change. This is a 
+  breaking change only if your project deactivated mapped 
+  settings by not declaring them.
+- Accessibility: [form controls] We improved the consistency and 
+  visibility of disabled styles. Teams should check disabled form 
+  elements to assure that the new styles are working in their 
+  layouts.
+- Accessibility: [usa-pagination] Replace the 
+  `role="presentation"` with `aria-label="ellipsis indicating 
+  non-visible pages" in `usa-pagination__overflow` items.
+- Accessibility: [usa-card] Use link elements in
+  any card component for calls to action instead of buttons. Use 
+  `<a href="#" class="usa-button"></a>` for these 
+  call-to-action links.
+- Content: [usa-identifier] We updated the accessibility statement
+  link text. Use the text "Accessibility statement" (EN) 
+  or "Declaración de accesibilidad" (ES) for the required 
+  link to an accessibility statement.
+- Guidance [usa-link]: We now suggest using the `rel="noreferrer"`
+  property on external links. This prevents the browser from leaking 
+  information about the original web address.
+- Guidance [usa-form]: We now suggest identifying both required 
+  and optional fields in forms. Label required fields with a red
+  asterisk and optional fields with the word "optional".
+
+
+--------------------------------------------------------------------
+These are notifications from the USWDS team, not necessarily a
+problem with your code.
+
+Disable notifications using `$theme-show-notifications: false`.
+--------------------------------------------------------------------
+
+    packages/uswds-core/src/styles/_notifications.scss 114:3  @forward
+    packages/uswds-core/src/styles/_index.scss 8:1            @forward
+    packages/uswds-core/_index.scss 1:1                       @forward
+    packages/uswds-global/_index.scss 2:1                     @forward
+    packages/uswds/_index.scss 5:1                            root stylesheet
+
+<s> [webpack.Progress] 18% building 2/14 entries 4458/4500 dependencies 756/1145 modules
+<s> [webpack.Progress] 23% building 3/14 entries 5208/5231 dependencies 1238/1337 modules
+<s> [webpack.Progress] 25% building 4/14 entries 5208/5231 dependencies 1239/1337 modules
+<s> [webpack.Progress] 29% building 5/14 entries 5208/5231 dependencies 1240/1337 modules
+<s> [webpack.Progress] 33% building 6/14 entries 5208/5231 dependencies 1241/1337 modules
+<s> [webpack.Progress] 37% building 7/14 entries 5208/5231 dependencies 1242/1337 modules
+<s> [webpack.Progress] 41% building 8/14 entries 5208/5231 dependencies 1243/1337 modules
+<s> [webpack.Progress] 45% building 9/14 entries 5208/5231 dependencies 1244/1337 modules
+<s> [webpack.Progress] 49% building 10/14 entries 5208/5231 dependencies 1245/1337 modules
+<s> [webpack.Progress] 53% building 11/14 entries 5208/5231 dependencies 1246/1337 modules
+<s> [webpack.Progress] 53% building 11/14 entries 5437/5442 dependencies 1300/1378 modules
+<s> [webpack.Progress] 57% building 12/14 entries 5443/5457 dependencies 1320/1378 modules
+<s> [webpack.Progress] 61% building 13/14 entries 5554/5554 dependencies 1394/1399 modules
+info => Manager built (17 s)
+<s> [webpack.Progress] 61% building 13/14 entries 5554/5600 dependencies 1394/1399 modules
+<s> [webpack.Progress] 61% building import loader ./node_modules/file-loader/dist/cjs.js
+<s> [webpack.Progress] 61% building 13/14 entries 5606/5606 dependencies 1435/1450 modules
+<s> [webpack.Progress] 65% building 14/14 entries 5609/5609 dependencies 1450/1450 modules
+<s> [webpack.Progress] 65% building
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing finish module graph ResolverCachePlugin
+<s> [webpack.Progress] 70% sealing finish module graph InferAsyncModulesPlugin
+<s> [webpack.Progress] 70% sealing finish module graph FlagDependencyExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph InnerGraphPlugin
+<s> [webpack.Progress] 70% sealing finish module graph WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 70% sealing plugins WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing dependencies optimization SideEffectsFlagPlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization FlagDependencyUsagePlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 75% sealing chunk optimization EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization SplitChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization ModuleConcatenationPlugin
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 79% sealing module reviving RecordIdsPlugin
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 80% sealing module ids NamedModuleIdsPlugin
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 82% sealing chunk reviving RecordIdsPlugin
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 84% sealing chunk id optimization FlagIncludedChunksPlugin
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record modules RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 86% sealing record chunks RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 92% sealing asset processing TerserPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.6c5a12ec.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.6c5a12ec.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.77ce437f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.77ce437f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 343.7e73a0b6.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 343.7e73a0b6.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 721.dc3981e9.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 721.dc3981e9.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 115.3c1c8757.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 115.3c1c8757.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 51.eafac2a4.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 51.eafac2a4.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 807.7576d779.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 807.7576d779.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 551.2e8fc78d.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 551.2e8fc78d.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 897.0d49ce0f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 897.0d49ce0f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 229.a5d8e428.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 229.a5d8e428.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 935.aa20f031.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 935.aa20f031.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 834.dc42883e.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 834.dc42883e.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 126.7e204cd3.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 126.7e204cd3.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.6c5a12ec.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.6c5a12ec.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.82d2ec58.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.82d2ec58.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 343.d9d88ab1.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 343.d9d88ab1.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 551.988246e7.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 551.988246e7.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 229.2fd878f9.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 229.2fd878f9.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 935.783275cc.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 935.783275cc.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 721.04569a22.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 721.04569a22.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 115.b365cf4c.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 115.b365cf4c.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 51.b6d910b1.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 51.b6d910b1.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 807.7cb2cddb.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 807.7cb2cddb.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 897.b2b665c9.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 897.b2b665c9.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 834.1516b33b.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 834.1516b33b.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 126.46a51d13.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 126.46a51d13.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 98% emitting after emit SizeLimitsPlugin
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% done plugins CaseSensitivePathsPlugin
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% 
+
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 100% 
+
+info => Preview built (38 s)
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   main.7d715ec5.iframe.bundle.js (1.87 MiB)
+WARN   721.04569a22.iframe.bundle.js (601 KiB)
+WARN   115.b365cf4c.iframe.bundle.js (683 KiB)
+WARN   807.7cb2cddb.iframe.bundle.js (794 KiB)
+WARN   126.46a51d13.iframe.bundle.js (1.19 MiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (3.07 MiB)
+WARN       runtime~main.82d2ec58.iframe.bundle.js
+WARN       126.46a51d13.iframe.bundle.js
+WARN       main.7d715ec5.iframe.bundle.js
+WARN 
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 100% 
+
+info => Output directory: /Users/mredmond/Documents/GitHub/uswds/storybook-static
+Serving up 🍕 static storybook build at: http://127.0.0.1:8000
+(node:88887) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated
+(Use `node --trace-deprecation ...` to show where the warning was created)
+
+[chromium] accessibility
+  Design Tokens/Fonts
+    ✔ Fonts (335ms)
+
+  Design Tokens/Icons
+    - Icons
+
+  Design Tokens/Icons/Icon Sizes
+    ✔ Icon Sizes (211ms)
+
+  Components/Accordion
+    ✔ Default (167ms)
+    ✔ Bordered (154ms)
+    ✔ Multiselectable (150ms)
+    ✔ Test Icons (238ms)
+
+  Components/Add Aspect
+    ✔ Add Aspect (134ms)
+console log from browser: Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.
+console log from browser: Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.
+console log from browser: Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.
+    ✔ Test (841ms)
+
+  Components/Alert
+console log from browser: Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.
+console log from browser: Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.
+    ✔ Default (306ms)
+    ✔ Emergency (130ms)
+    ✔ Error (122ms)
+    ✔ Info (123ms)
+    ✔ No Header (118ms)
+    ✔ No Icon (114ms)
+    ✔ Slim (118ms)
+    ✔ Success (123ms)
+    ✔ Warning (122ms)
+    ✔ Test (151ms)
+    ✔ Alert Comparison (245ms)
+
+  Components/Banner
+    ✔ Default (136ms)
+    ✔ Default Spanish (139ms)
+    ✔ Mil (133ms)
+    ✔ Mil Spanish (134ms)
+
+  Components/Breadcrumb
+    ✔ Default (147ms)
+    ✔ Wrap (136ms)
+
+  Components/Button Group
+    ✔ Default (143ms)
+    ✔ Segmented (232ms)
+
+  Components/Button
+    ✔ Default (123ms)
+    ✔ Accent Cool (119ms)
+    ✔ Accent Warm (119ms)
+    ✔ Base (120ms)
+    ✔ Big (116ms)
+    ✔ Outline (118ms)
+    ✔ Outline Inverse (150ms)
+    ✔ Secondary (122ms)
+    ✔ Unstyled (121ms)
+
+  Components/Card
+    ✔ Default (200ms)
+    ✔ Flag (158ms)
+    ✔ Media (159ms)
+    ✔ Test (214ms)
+
+  Components/Form Inputs/Character Count
+    ✔ Character Count (161ms)
+    ✔ Disabled (122ms)
+    ✔ Aria Disabled (128ms)
+
+  Components/Form Inputs/Checkbox
+    ✔ Default (129ms)
+    ✔ Disabled (118ms)
+    ✔ Aria Disabled (118ms)
+    ✔ Tile (119ms)
+    ✔ Disabled Tile (118ms)
+    ✔ Aria Disabled Tile (119ms)
+    ✔ Test (131ms)
+
+  Components/Form Inputs/Checklist
+    ✔ Checklist (115ms)
+
+  Components/Collection
+    ✔ Default (160ms)
+    ✔ Fancy Date (126ms)
+    ✔ Media (156ms)
+    ✔ Only Headers (145ms)
+
+  Components/Form Inputs/Combo Box
+    ✔ Default (145ms)
+    ✔ Disabled (117ms)
+    ✔ Aria Disabled (128ms)
+    ✔ Test (223ms)
+
+  Components/Form Inputs/Date Picker
+    ✔ Default (120ms)
+    ✔ Default Date (121ms)
+    ✔ Range Date (110ms)
+    ✔ Restricted Date (117ms)
+    ✔ Disabled (116ms)
+    ✔ Aria Disabled (109ms)
+
+  Components/Form Inputs/Date Range Picker
+    ✔ Default (120ms)
+    ✔ Default Date (125ms)
+    ✔ Restricted Date (121ms)
+    ✔ Disabled (121ms)
+    ✔ Aria Disabled (115ms)
+
+  Components/Embed Container
+    - Embed Container
+
+  Components/Form Inputs/File Input
+    ✔ Default (114ms)
+    ✔ Error (117ms)
+    ✔ Multiple (122ms)
+    ✔ Specific (113ms)
+    ✔ Wildcard (115ms)
+    ✔ Disabled (128ms)
+    ✔ Aria Disabled (105ms)
+    ✔ Test Multiple Inputs (129ms)
+
+  Components/Footer
+    ✔ Default (156ms)
+    ✔ Big Footer (194ms)
+    ✔ Slim Footer (128ms)
+
+  Components/Graphic List
+    ✔ Graphic List (151ms)
+
+  Components/Header
+    ✔ Default (154ms)
+    ✔ Megamenu (186ms)
+    ✔ Extended (146ms)
+    ✔ Extended Megamenu (186ms)
+
+  Components/Hero
+    ✔ Hero (131ms)
+
+  Components/Icon List
+    ✔ Default (130ms)
+    ✔ Custom Rich (141ms)
+    ✔ Custom Size (121ms)
+    ✔ Rich (138ms)
+    ✔ Simple (123ms)
+
+  Components/Identifier
+    ✔ Default (144ms)
+    ✔ Default Spanish (150ms)
+    ✔ Multiple Parents And Logos (161ms)
+    ✔ Multiple Parents And Logos Spanish (140ms)
+    ✔ No Logos (139ms)
+    ✔ No Logos Spanish (134ms)
+    ✔ Taxpayer Disclaimer (136ms)
+    ✔ Taxpayer Disclaimer Spanish (145ms)
+
+  Components/In-Page Navigation
+    ✔ Default (180ms)
+
+  Components/Form Inputs/Text Input Mask
+    ✔ SSN (125ms)
+    ✔ Phone (118ms)
+    ✔ ZIP (114ms)
+    ✔ Alphanumeric (119ms)
+    ✔ Disabled (111ms)
+    ✔ Aria Disabled (113ms)
+
+  Components/Form Inputs/Input Prefix or Suffix
+    ✔ Prefix (120ms)
+    ✔ Prefix Disabled (118ms)
+    ✔ Prefix Aria Disabled (113ms)
+    ✔ Suffix (121ms)
+    ✔ Suffix Disabled (117ms)
+    ✔ Suffix Aria Disabled (119ms)
+
+  Components/Form Inputs/Text Input
+    ✔ Input (113ms)
+    ✔ Disabled (104ms)
+    ✔ Aria Disabled (100ms)
+    ✔ State Showcase (127ms)
+
+  Components/Language Selector
+    ✔ Two Languages (112ms)
+    ✔ Three Or More Languages (124ms)
+    ✔ In Header Example (171ms)
+    ✔ Unstyled Example (121ms)
+
+  Components/Link
+    ✔ Link (130ms)
+
+  Components/List
+    ✔ List (127ms)
+
+  Components/Media Block
+    ✔ Media Block (141ms)
+
+  Components/Form Inputs/Memorable Date
+    ✔ Memorable Date (133ms)
+    ✔ Disabled (122ms)
+    ✔ Aria Disabled (128ms)
+
+  Components/Modal
+    ✔ Default (137ms)
+    ✔ Large (132ms)
+    ✔ Forced Action (124ms)
+    ✔ Test Nested Forms (142ms)
+
+  Components/Header/Partials/Primary
+    ✔ Default (165ms)
+    ✔ Megamenu (160ms)
+
+  Components/Header/Partials/Secondary
+    ✔ Default (121ms)
+    ✔ Search Included (135ms)
+
+  Components/Pagination
+    ✔ Default (138ms)
+    ✔ Unbounded (142ms)
+    ✔ Spanish (132ms)
+    ✔ Spanish Unbounded (140ms)
+    ✔ Test (613ms)
+
+  Components/Process List
+    ✔ Default (137ms)
+    ✔ Process List Custom Sizing (122ms)
+    ✔ Process List No Text (116ms)
+
+  Components/Prose
+    ✔ Default (172ms)
+
+  Components/Form Inputs/Radio
+    ✔ Default (131ms)
+    ✔ Disabled (120ms)
+    ✔ Aria Disabled (122ms)
+    ✔ Radio Tile (124ms)
+    ✔ Tile Disabled (118ms)
+    ✔ Tile Aria Disabled (123ms)
+
+  Components/Form Inputs/Range
+    ✔ Range (118ms)
+    ✔ Disabled (102ms)
+    ✔ Aria Disabled (102ms)
+
+  Components/Search
+    ✔ Default (114ms)
+    ✔ Big (117ms)
+    ✔ Small (112ms)
+    ✔ Default Lang Es (122ms)
+    ✔ Big Lang Es (113ms)
+    ✔ Small Lang Es (110ms)
+
+  Components/Section
+    ✔ Default (110ms)
+    ✔ Dark (111ms)
+    ✔ Light (111ms)
+
+  Components/Form Inputs/Select
+    ✔ Select (115ms)
+    ✔ Disabled (101ms)
+    ✔ Aria Disabled (105ms)
+    ✔ Multiple (115ms)
+
+  Components/Side Navigation
+    ✔ Level One (119ms)
+    ✔ Level Two (126ms)
+    ✔ Level Three (131ms)
+    ✔ Test (146ms)
+
+  Components/Site Alert
+    ✔ Default (124ms)
+    ✔ Info (135ms)
+    ✔ Emergency (124ms)
+    ✔ Emergency List (120ms)
+    ✔ Emergency No Header (118ms)
+    ✔ Emergency No Icon (121ms)
+    ✔ Emergency Slim (125ms)
+
+  Components/Site Title
+    ✔ Site Title (115ms)
+
+  Components/Skipnav
+    ✔ Skipnav (111ms)
+
+  Components/Step Indicator
+    ✔ Default (124ms)
+    ✔ Center Counters Sm (130ms)
+    ✔ Center Counters (121ms)
+    ✔ Center No Label (118ms)
+    ✔ Center (130ms)
+    ✔ Counters Sm (126ms)
+    ✔ Counters (124ms)
+    ✔ No Labels (119ms)
+    ✔ Short (120ms)
+
+  Components/Summary Box
+    ✔ Summary Box (131ms)
+
+  Components/Table
+    ✔ Default (132ms)
+    ✔ Borderless (127ms)
+    ✔ Striped (128ms)
+    ✔ Sortable (250ms)
+
+  Components/Table/Scrollable
+    ✔ Default (176ms)
+    ✔ Striped (171ms)
+    ✔ Compact (170ms)
+    ✔ Compact Striped (175ms)
+
+  Components/Table/Stacked
+    ✔ Default (128ms)
+    ✔ Borderless (123ms)
+    ✔ With Header (127ms)
+    ✔ With Header Borderless (126ms)
+
+  Components/Tags
+    ✔ Info (108ms)
+    ✔ Big (108ms)
+
+  Components/Form Inputs/Time Picker
+    ✔ Time Picker (112ms)
+    ✔ Time Picker Default Value (112ms)
+    ✔ Disabled (116ms)
+    ✔ Aria Disabled (122ms)
+
+  Components/Tooltip
+    ✔ Tooltip (117ms)
+    ✔ Tooltip Utility (115ms)
+    ✔ Test (187ms)
+
+  Components/Validation
+    ✔ Validation (126ms)
+
+  Patterns/Forms
+    ✔ Mailing Address (149ms)
+    ✔ Name (137ms)
+    ✔ Reset Password (126ms)
+    ✔ Sign In (122ms)
+    ✔ Sign In Spanish (123ms)
+    ✔ Sign In Multiple (150ms)
+    ✔ Sign In Multiple Spanish (146ms)
+    ✔ Disabled Form Elements (173ms)
+
+  Pages/Create Account
+    ✔ Create Account Page (262ms)
+    ✔ Create Account Page Spanish (230ms)
+
+  Pages/Documentation Page
+    ✔ Documentation Page (269ms)
+
+  Pages/Error
+    ✔ Page Not Found (214ms)
+    ✔ Page Not Found Spanish (217ms)
+
+  Pages/Landing Page
+    ✔ Landing Page (240ms)
+
+  Pages/Sign-In
+    ✔ Sign In Page (205ms)
+    ✔ Sign In Page Spanish (206ms)
+    ✔ Multiple Sign In Page (220ms)
+    ✔ Multiple Sign In Page Spanish (228ms)
+
+
+  229 passing (33s)
+  2 pending
+
